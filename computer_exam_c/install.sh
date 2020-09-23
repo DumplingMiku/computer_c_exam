@@ -6,4 +6,4 @@ fi
 sudo apt update
 sudo apt install apache2 vsftpd openssh-server xinetd telnetd isc-dhcp-server gedit net-tools -y
 sudo chmod 777 ~/computer_c_exam/computer_exam_c/
-~/computer_c_exam/computer_exam_c/change.sh
+sudo sh ~/computer_c_exam/computer_exam_c/change.sh
