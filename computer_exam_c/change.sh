@@ -16,4 +16,4 @@ sudo service xinetd restart
 cd ~/computer_c_exam/computer_exam_c/www
 sudo cp -r * /var/www/html
 history -c
-~/computer_c_exam/computer_exam_c/adduser.sh
+sudo bash ~/computer_c_exam/computer_exam_c/adduser.sh
